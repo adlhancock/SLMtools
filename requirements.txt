@@ -1,0 +1,6 @@
+xmltodict
+openpyxl
+numpy
+matplotlib
+sphinx
+materialtools

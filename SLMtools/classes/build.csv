@@ -1,0 +1,30 @@
+file name, file name not given
+material supplier, test supplier
+part name, test
+part relative density, part relative density not given
+beam power, 200
+beam spot radius, 2.5e-05
+beam coupling, 0.388
+hatch description, meander
+location, location not given
+point distance, 3.5e-05
+idle speed, 2.5
+build number, 1
+material, Molybdenum
+post-build comments, post-build test comment
+thermal conductivity, thermal conductivity not given
+machine, machine not given
+scan speed, 0.21341463414634146
+hatch spacing, 2.5e-05
+part porosity, part porosity not given
+part absolute density, part absolute density not given
+exposure time, 0.00015
+Young's modulus, Young's modulus not given
+part number, 1.1
+bed temperature, 25
+focus offset, 0
+part hardness, part hardness not given
+pre-build comments, pre-build test comment
+build date, TEST
+operator, operator not given
+layer thickness, 3e-05
